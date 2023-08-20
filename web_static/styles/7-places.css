@@ -1,0 +1,29 @@
+article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F 1px solid; 
+    border-radius:  4px;
+    float: left;
+    height: fit-content;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+.places  article:last-of-type
+{
+    margin: 10px 250px  10px;
+}
+
+.places h1 {
+    font-size: 30px;
+    text-align: left;
+    margin-left: 1em;
+    display: block;
+}
+
+.places article h2 {
+    font-size: 30px;
+}
